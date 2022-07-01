@@ -1,7 +1,7 @@
 # Triple_Backend Homework 2
 
 사용언어 : Python3.9
-Flask + MySQL
+Flask + MySQL + Pandas
 
 ## 실행 전 아래명령어를 사용하여 필요 패키지들을 설치해주세요.
 
