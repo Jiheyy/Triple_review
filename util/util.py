@@ -1,12 +1,6 @@
-#from config.config import *
-import ast
-import re
-import string
-import random
 import logging
 from flask import jsonify
 
-from config.config import G_APP_INFO
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
